@@ -1,0 +1,13 @@
+{
+    "inline":true,
+    "buttons": [
+      [{
+        "action": {
+          "type": "text",
+          "label": "Бросить ещё раз!"
+        },
+        "color": "positive"
+      }]
+      
+    ]
+  }

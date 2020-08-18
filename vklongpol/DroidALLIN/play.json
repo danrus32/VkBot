@@ -1,0 +1,44 @@
+{
+    "one_time":false,
+    "buttons": [
+      [{
+        "action": {
+          "type": "text",
+          "label": "Купить кеис за 10$!🎰"
+        },
+        "color": "positive"
+      }],[{
+        "action": {
+          "type": "text",
+          "label": "Купить кеис за 50$!🎰"
+        },
+        "color": "positive"
+      }],[{
+        "action": {
+          "type": "text",
+          "label": "Купить кеис за 100$!🎰"
+        },
+        "color": "positive"
+      }],[{
+        "action": {
+          "type": "text",
+          "label": "Баланс!💵"
+        },
+        "color": "positive"
+      }],[{
+        "action": {
+          "type": "text",
+          "label": "Пополнить счёт💵"
+        },
+        "color": "positive"
+      }],[{
+        "action": {
+          "type": "text",
+          "label": "Убрать клавиатуру!⌨"
+        },
+        "color": "positive"
+      }]
+      
+      
+    ]
+  }

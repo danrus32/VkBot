@@ -1,0 +1,13 @@
+{
+    "inline":true,
+    "buttons": [
+      [{
+        "action": {
+          "type": "text",
+          "label": "Открыть ешщё раз кейс за 50$! 50%/50%"
+        },
+        "color": "positive"
+      }]
+      
+    ]
+  }

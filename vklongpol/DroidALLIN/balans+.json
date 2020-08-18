@@ -1,0 +1,32 @@
+{
+    "one_time":true,
+    "buttons": [
+      [{
+        "action": {
+          "type": "text",
+          "label": "Пополнить на 10$"
+        },
+        "color": "positive"
+      }],[{
+        "action": {
+          "type": "text",
+          "label": "Пополнить на 20$"
+        },
+        "color": "positive"
+      }],[{
+        "action": {
+          "type": "text",
+          "label": "Пополнить на 50$"
+        },
+        "color": "positive"
+      }],[{
+        "action": {
+          "type": "text",
+          "label": "Пополнить на 100$"
+        },
+        "color": "positive"
+      }]
+      
+      
+    ]
+  }

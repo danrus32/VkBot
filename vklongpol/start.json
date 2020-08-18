@@ -1,0 +1,38 @@
+{
+    "one_time":true,
+    "buttons": [
+      [{
+        "action": {
+          "type": "text",
+          "label": "Pogoda"
+        },
+        "color": "positive"
+      }],[{
+        "action": {
+          "type": "text",
+          "label": "Play"
+        },
+        "color": "positive"
+      }],[{
+        "action": {
+          "type": "text",
+          "label": "Png"
+        },
+        "color": "positive"
+      }],[{
+        "action": {
+          "type": "text",
+          "label": "kubik"
+        },
+        "color": "positive"
+      }],[{
+        "action": {
+          "type": "text",
+          "label": "/comands"
+        },
+        "color": "positive"
+      }]
+      
+      
+    ]
+  }
