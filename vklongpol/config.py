@@ -13,6 +13,4 @@ def RandomId():
 def Time():
     today = datetime.datetime.today()
     return today.strftime("%Y-%m-%d %H:%M:%S")
-a = 1
-messagetext = '[club187553500|@club187553500] Купить кеис за 10$!🎰'
 
